@@ -1357,7 +1357,7 @@ footer .social a:hover{
 .backtop{
     cursor: pointer;
     position: fixed;
-    bottom: 84px;
+    bottom: 20px;
     right: 20px;
     width: 45px;
     height: 45px;
