@@ -1,0 +1,130 @@
+{
+    "category": [
+        {
+            "name":"Web App",
+            "filter": "web"
+        },{
+            "name":"Desktop App",
+            "filter": "top"
+        },{
+            "name":"IOT",
+            "filter": "iot"
+        },{
+            "name":"Scripts",
+            "filter": "script"
+        }
+    ],
+
+    "projects":[{
+            "_id": 1,
+            "date": "2016",
+            "name": "Pointing generator from Paxton",
+            "discription": "Written enquire painful ye to offices forming it. Then so does over sent dull on. Likewise offended humoured mrs fat trifling answered. On ye position greatest so desirous. So wound stood guest weeks no terms up ought. By so these am so rapid blush songs begin. Nor but mean time one over. Tastes giving in passed direct me valley as supply. End great stood boy noisy often way taken short. Rent the size our more door.",
+            "client": ["Douane", "Marsa Maroc"],
+            "category": ["script"],
+            "tag": ["C#"],
+            "city": ["Casablanca", "Rabat"],
+            "images": ["work-3.jpg","image2.jpg","image3.jpg","image4.jpg","image5.jpg","image6.jpg"]
+        },{
+            "_id": 2,
+            "date": "2016",
+            "name": "PDA HID Badge checker",
+            "discription": "Written enquire painful ye to offices forming it. Then so does over sent dull on. Likewise offended humoured mrs fat trifling answered. On ye position greatest so desirous. So wound stood guest weeks no terms up ought. By so these am so rapid blush songs begin. Nor but mean time one over. Tastes giving in passed direct me valley as supply. End great stood boy noisy often way taken short. Rent the size our more door.",
+            "client": ["Marsa Maroc"],
+            "category": ["top"],
+            "tag": ["C#"],
+            "city": ["Casablanca"],
+            "images": ["work-3.jpg","image2.jpg","image3.jpg","image4.jpg","image5.jpg","image6.jpg"]
+        },{
+            "_id": 3,
+            "date": "2016 2017",
+            "name": "Traceability of people",
+            "discription": "Written enquire painful ye to offices forming it. Then so does over sent dull on. Likewise offended humoured mrs fat trifling answered. On ye position greatest so desirous. So wound stood guest weeks no terms up ought. By so these am so rapid blush songs begin. Nor but mean time one over. Tastes giving in passed direct me valley as supply. End great stood boy noisy often way taken short. Rent the size our more door.",
+            "client": ["ANP"],
+            "category": ["top"],
+            "tag": ["C#","SQL Server", "Paxton", "Apacs"],
+            "city": ["Tangier"],
+            "images": ["3_1.jpg","3_2.jpg","3_3.jpg"]
+        },{
+            "_id": 3,
+            "date": "2016 2017",
+            "name": "visitor manager",
+            "discription": "Written enquire painful ye to offices forming it. Then so does over sent dull on. Likewise offended humoured mrs fat trifling answered. On ye position greatest so desirous. So wound stood guest weeks no terms up ought. By so these am so rapid blush songs begin. Nor but mean time one over. Tastes giving in passed direct me valley as supply. End great stood boy noisy often way taken short. Rent the size our more door.",
+            "client": ["ANP"],
+            "category": ["top"],
+            "tag": ["C#", "SQL Server", "Apacs"],
+            "city": ["Tangier"],
+            "images": ["work-3.jpg","image2.jpg","image3.jpg","image4.jpg","image5.jpg","image6.jpg"]
+        },{
+            "_id": 4,
+            "date": "2017",
+            "name": "Intrusion system castle of salman bin abdulaziz",
+            "discription": "Written enquire painful ye to offices forming it. Then so does over sent dull on. Likewise offended humoured mrs fat trifling answered. On ye position greatest so desirous. So wound stood guest weeks no terms up ought. By so these am so rapid blush songs begin. Nor but mean time one over. Tastes giving in passed direct me valley as supply. End great stood boy noisy often way taken short. Rent the size our more door.",
+            "client": ["Vision Morroco"],
+            "category": ["top","web"],
+            "tag": ["C#","python","unity","laravel"],
+            "city": ["Tangier"],
+            "images": ["4_1.png","4_2.png","4_3.png"]
+        },{
+            "_id": 5,
+            "date": "2017 - 2018",
+            "name": "Access control Next-AC",
+            "discription": "Written enquire painful ye to offices forming it. Then so does over sent dull on. Likewise offended humoured mrs fat trifling answered. On ye position greatest so desirous. So wound stood guest weeks no terms up ought. By so these am so rapid blush songs begin. Nor but mean time one over. Tastes giving in passed direct me valley as supply. End great stood boy noisy often way taken short. Rent the size our more door.",
+            "client": ["Intelifex Systems", "GSTI"],
+            "category": ["web"],
+            "tag": ["python","NodeJs","laravel"],
+            "city": ["Jorf Lasfar"],
+            "images": ["5_1.png"]
+        },{
+            "_id": 6,
+            "date": "2018",
+            "name": "Queue management system Next-QMS",
+            "discription": "Written enquire painful ye to offices forming it. Then so does over sent dull on. Likewise offended humoured mrs fat trifling answered. On ye position greatest so desirous. So wound stood guest weeks no terms up ought. By so these am so rapid blush songs begin. Nor but mean time one over. Tastes giving in passed direct me valley as supply. End great stood boy noisy often way taken short. Rent the size our more door.",
+            "client": ["Maroc Telecom", "Tax administration"],
+            "category": ["web","top"],
+            "tag": ["python"],
+            "city": ["Tangier", "Essaouira"],
+            "images": ["work-3.jpg","image2.jpg","image3.jpg","image4.jpg","image5.jpg","image6.jpg"]
+        },{
+            "_id": 7,
+            "date": "2018",
+            "name": "Parking Counter Display",
+            "discription": "Written enquire painful ye to offices forming it. Then so does over sent dull on. Likewise offended humoured mrs fat trifling answered. On ye position greatest so desirous. So wound stood guest weeks no terms up ought. By so these am so rapid blush songs begin. Nor but mean time one over. Tastes giving in passed direct me valley as supply. End great stood boy noisy often way taken short. Rent the size our more door.",
+            "client": ["Casa dev"],
+            "category": ["script"],
+            "tag": ["C#", "SQL Server", "Skidata"],
+            "city": ["Casablanca"],
+            "images": ["work-3.jpg","image2.jpg","image3.jpg","image4.jpg","image5.jpg","image6.jpg"]
+        },{
+            "_id": 8,
+            "date": "2018",
+            "name": "Car management",
+            "discription": "Written enquire painful ye to offices forming it. Then so does over sent dull on. Likewise offended humoured mrs fat trifling answered. On ye position greatest so desirous. So wound stood guest weeks no terms up ought. By so these am so rapid blush songs begin. Nor but mean time one over. Tastes giving in passed direct me valley as supply. End great stood boy noisy often way taken short. Rent the size our more door.",
+            "client": ["Silos"],
+            "category": ["top"],
+            "tag": ["C#", "SQL Server", "RFID Reader"],
+            "city": ["Casablanca"],
+            "images": ["work-3.jpg","image2.jpg","image3.jpg","image4.jpg","image5.jpg","image6.jpg"]
+        },{
+            "_id": 9,
+            "date": "2018 - 2019",
+            "name": "Video management system",
+            "discription": "Written enquire painful ye to offices forming it. Then so does over sent dull on. Likewise offended humoured mrs fat trifling answered. On ye position greatest so desirous. So wound stood guest weeks no terms up ought. By so these am so rapid blush songs begin. Nor but mean time one over. Tastes giving in passed direct me valley as supply. End great stood boy noisy often way taken short. Rent the size our more door.",
+            "client": ["Intelifex Systems"],
+            "category": ["web"],
+            "tag": ["python", "flask", "mysql"],
+            "city": ["Rabat"],
+            "images": ["work-3.jpg","image2.jpg","image3.jpg","image4.jpg","image5.jpg","image6.jpg"]
+        },{
+            "_id": 10,
+            "date": "2016 - 2020",
+            "name": "Integration between security systems",
+            "discription": "Written enquire painful ye to offices forming it. Then so does over sent dull on. Likewise offended humoured mrs fat trifling answered. On ye position greatest so desirous. So wound stood guest weeks no terms up ought. By so these am so rapid blush songs begin. Nor but mean time one over. Tastes giving in passed direct me valley as supply. End great stood boy noisy often way taken short. Rent the size our more door.",
+            "client": ["Intelifex Systems"],
+            "category": ["script"],
+            "tag": ["C#", "Paxon", "Apacs", "Bosch VMS", "Bosch AC", "Paxon", "Milestone Systems"],
+            "city": ["Rabat"],
+            "images": ["work-3.jpg","image2.jpg","image3.jpg","image4.jpg","image5.jpg","image6.jpg"]
+        }
+    ]
+}

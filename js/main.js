@@ -195,7 +195,7 @@ if ($('.image-link').length) {
         type: 'image'
     });
 }
-    
+
 //TWITTER
 if ($('.widget-twitter .tweet').length) {
 $('.widget-twitter .tweet').twittie({
