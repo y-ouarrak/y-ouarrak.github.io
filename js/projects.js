@@ -26,17 +26,27 @@ data.then((res)=>{
             link.href="#";
             link.appendChild(icon1)
 
-            let linkImg = document.createElement('a')
-            linkImg.className="image-link lightbox";
-            linkImg.href="images/"+project.images[0];
-            linkImg.appendChild(icon2)
-
             let workLinkDiv = document.createElement('div')
             workLinkDiv.className="work-links"
-
             workLinkDiv.appendChild(link)
-            workLinkDiv.appendChild(linkImg)
+            let span = document.createElement('span');
+            for (const [i,img] of project.images.entries()) {
+                let linkImg = document.createElement('a')
+                linkImg.className="image-link lightbox";
+                linkImg.href="images/"+img;
+                if(i == 0){
+                    linkImg.appendChild(icon2)
+                    linkImg.appendChild(document.createElement('br'))
+                }
+                span.appendChild(linkImg)
+            }
 
+            workLinkDiv.appendChild(span)
+            $(span).magnificPopup({
+                delegate: 'a',
+                type: 'image',
+                gallery:{enabled:true}
+            });
             let para = document.createElement('p')
             let title = document.createTextNode(project.name)
             para.appendChild(title);
